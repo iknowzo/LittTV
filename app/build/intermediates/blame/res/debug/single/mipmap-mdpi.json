@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-mdpi/littsubmission2.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-mdpi/littsubmission2.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-mdpi/littfiretvicon.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-mdpi/littfiretvicon.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-mdpi/littsubmissiontransparent.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-mdpi/littsubmissiontransparent.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-mdpi/litttvlogoplanet.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-mdpi/litttvlogoplanet.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-mdpi/littsymmetry.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-mdpi/littsymmetry.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-mdpi/littsubmissionblack.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-mdpi/littsubmissionblack.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/lb_speech_orb.xml",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable-hdpi-v4/lb_speech_orb.xml"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/scrubber_disabled.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable-hdpi-v4/scrubber_disabled.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/card_background_default.9.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable-hdpi-v4/card_background_default.9.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/scrubber_pressed.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable-hdpi-v4/scrubber_pressed.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/scrubber_focussed.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable-hdpi-v4/scrubber_focussed.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_gradient_search.9.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable-hdpi-v4/bg_gradient_search.9.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/scrubber_normal.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable-hdpi-v4/scrubber_normal.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_edit_text_bg_unfocused.xml",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable-hdpi-v4/search_edit_text_bg_unfocused.xml"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_edit_text_bg_color_selector.xml",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable-hdpi-v4/search_edit_text_bg_color_selector.xml"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search_edit_text_bg.xml",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable-hdpi-v4/search_edit_text_bg.xml"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/litttvlogoplanet.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable-hdpi-v4/litttvlogoplanet.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/movie.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/res/drawable-hdpi-v4/movie.png"
+    }
+]

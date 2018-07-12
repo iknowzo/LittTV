@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/DynamicParser/0.7.1.201405082137/jars/libs/json-smart-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3d875e4b5af890def9aff76fbfdb4fcd48e857d">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/8/json-smart-2.2_af191fd992a2f8be117c572dd5ba9d5af044137d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_24ea5ddeb6ff1cf7b697a48c62c7b2d9bdb6ad09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/PassThroughLoginComponent/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3cf08d68ba99b34ad7d9454e73aaa6e57a5dddb5">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-PassThroughLoginComponent-0.7.1.201405082137_5cb86823a3abac60f266e345dd8cc131168b69fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/com.trello/rxlifecycle-components/0.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="daa2997352e18d00ec179cdc02ffad81bfe98480">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.trello-rxlifecycle-components-0.4.0_e5149e2a3a57071006e9c9810ff3e86cb8526a16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/com.trello/rxlifecycle/0.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a6c192085654b4fe8acf96837a6168bff94491">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.trello-rxlifecycle-0.4.0_f4cd5ba279b8aa016cb0708d4c4ade886feef3c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/AMZNMediaPlayerComponent/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b40ec4e52c08a4036dd35495697079089e0a5cb">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-AMZNMediaPlayerComponent-0.7.1.201405082137_f12cb067019e0b598fe9f8bdcc800198b2a89e3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.0/d2e494b027c26edc4d4e7e9251e168e6af26d2d3/jackson-databind-2.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d2e494b027c26edc4d4e7e9251e168e6af26d2d3">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.6.0_4b074e7f15dd9e06a52b3458e83e0304d72c42c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/AMZNMediaPlayerComponent/0.7.1.201405082137/jars/libs/AMZNMediaPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="948a71be5e1933d284cab52e45bb53cfef91b60c">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/8/AMZNMediaPlayer_93198f9a7a4a686ff62877c6fdffe6962dd02e29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.0_ed6e691b9a0d4a3eda956e73ca83227b9b09e46f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/UAMP/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8281241194d24dfda9dc846aca84fb7d6a85a70e">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-UAMP-0.7.1.201405082137_e8c8709ecc7dd7dba8f01cd0744e88d355e831b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/TVUIComponent/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6761b626e8dbfd81ae9618e8896b1f7ace040448">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-TVUIComponent-0.7.1.201405082137_69a8dac9ece835d6279e3c1ad2178d12a16e6451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/AnalyticsInterface/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d8186b93a6077cfd3aa909ddc7b5b638d47e8a">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-AnalyticsInterface-0.7.1.201405082137_54dfcac0ca5f71c926d499f995e6c793109b420a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/DynamicParser/0.7.1.201405082137/jars/libs/json-path-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2fb1b717f0856b32b9de8eeb02207749ba0d8364">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/8/json-path-2.1.0_c44e6c697b60ca4d58bc1feb34f06ba7c9cc5df9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android-no-op/1.4-beta2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="560bca701ac165c2081e0b7196556a968c84893e">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.squareup.leakcanary-leakcanary-android-no-op-1.4-beta2_7ec6f8c454a9fe78b7e42609850dc111a9041bfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44c89430f058b695dd27da32de646c4d2d348678">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-leanback-v17-23.1.1_56d867f5dd0f91ebf6ff241b8767087ad195e805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/Utils/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="048a82882bc4ef0eb31298b42a0d78055644a74b">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-Utils-0.7.1.201405082137_3e372a1170db2889de1e554576d8793a5401663a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_b48e0f9465829e8ce209d088a28f1ee291048c34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/ContentModel/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="993582b16d53367527b7ea4d5577358a7ccd3e12">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-ContentModel-0.7.1.201405082137_b6e2d4977f4aace5061ef7f956fd4a33d6d866fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/UAMP/0.7.1.201405082137/jars/libs/exoplayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9859f4a9a763d53f4f6246d1f3513456d441b3fd">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/8/exoplayer_5a03ccd41e709c556f86b3fae0ad17926e038bfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_d45ac7114a1b7d27b4aab40342cac69ce5ea4f2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava-async-util/0.21.0/46d17bf13427f275c25c22eaccbfb4a8da1da85a/rxjava-async-util-0.21.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="46d17bf13427f275c25c22eaccbfb4a8da1da85a">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-async-util-0.21.0_1343eea60e7c3f8a43e5ad9e8b67c6714ce2fe4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/com.jakewharton.rxbinding/rxbinding/0.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="023a79c3bbea624387e820cb2b4d5c6ba774903c">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton.rxbinding-rxbinding-0.3.0_48492ede5548f575646fa875a55be952d5b9a6e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/DataLoader/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcb479058ef678f8725766c985ad50adec7789e4">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-DataLoader-0.7.1.201405082137_ab90c3b8afa364dd632af4ae71d6976bdaa8e1e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/LoggerAnalyticsComponent/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36aa5f1ac0815842bdc68c79170efe9c8900ad71">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-LoggerAnalyticsComponent-0.7.1.201405082137_a9ba7fb2a6168c5c4a3a5665ec3b95f48915935d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/com.android.support/recommendation/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e609a2245f2edda10d1c19aac05c581c38c3e37">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recommendation-23.1.1_c6987e7c1b41ada54bfe11666ddd654e5b77304c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava-computation-expressions/0.21.0/e2d7af9fc2c7d444d7d013f9354b123ce1bd0365/rxjava-computation-expressions-0.21.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2d7af9fc2c7d444d7d013f9354b123ce1bd0365">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-computation-expressions-0.21.0_b0e8aef969eac72f7c38c8ffec92c630ff8ce44a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-codec-1.10_3144b71c1591f3024d14fc5ea2c05e235f332d46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.0/a0990e2e812ac6639b6ce955c91b13228500476e/jackson-annotations-2.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0990e2e812ac6639b6ce955c91b13228500476e">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.6.0_0dd20094261983febab30390c8fd213b160f5ab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/UAMP/0.7.1.201405082137/jars/libs/amznplayerinterfacelib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae725ea70a4b5cfe6054f197999f2639c2621598">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/8/amznplayerinterfacelib_ddfb59a21b01bfbe993fab7e50c48b552f344fad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_30ca529bcfc1b614c722b6a346d94f35be6a127b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/AdsInterface/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bf38cb5152534d51f97f87c932416ace9cceea5">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-AdsInterface-0.7.1.201405082137_a7a97145c2a9e330e98e6b40c9b10ec4d4964ee8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/AuthInterface/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c07f1078b5b76a323f03efd3284f68aeb5e551e8">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-AuthInterface-0.7.1.201405082137_757bc1499845bfe709e04a94d37e3f4ed78c69d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/PurchaseInterface/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2dd66d7e5526c813e64d991ee2d9601f9a082db3">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-PurchaseInterface-0.7.1.201405082137_32f8bcee8bab743ae3af338512ea5e5f25b462a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/DynamicParser/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d3b61309cf2153e9ee00738796b63613803b751b">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-DynamicParser-0.7.1.201405082137_2ce605230d7f458f1c7f9d62fb76d6d2ddf8549e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/Calligraphy/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0cdc0dd7dd4325165d3569aa01b2b275e252a7e">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-Calligraphy-unspecified_313077a54325e1c82c1b3e9e51674d033506c22d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/ModuleInterface/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20e593597da66cc07c5f9c1b2aad8fa790d22af3">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-ModuleInterface-0.7.1.201405082137_010ac6173b22864549ea54afe6164ec6cb4d992c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_f297b21cb5c6f832a40cb34a91e19a1a66bffa74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/ContentBrowser/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c223a76d70062f004dafd0b401cd9f845a91a857">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-ContentBrowser-unspecified_8271ae46d1939ce74bc4490ebf7cbc0c75afc438/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/jacoco/jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/jacocoagent_d6ffe9e32671ac2a076be3ddde6fd25645767385/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/PassThroughAdsComponent/0.7.1.201405082137/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24d2f85b0acd470616a44c04b08e61e9dd16a105">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/4/Application-PassThroughAdsComponent-0.7.1.201405082137_08fad8d2d79cead1695e8b53175e5e8ac66bf394/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_d5c35404727cb434a67c6c1d23fd587d1f40cd0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_59018e934a2b2bf00012ae37b5fb281e6e9b6b1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/.gradle/caches/modules-2/files-2.1/org.simpleframework/simple-xml/2.7.1/dd91fb744c2ff921407475cb29a1e3fee397d411/simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/simple-xml-2.7.1_6fbd59289d1c7fe521f7d58c91e035710f1faf09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/Application/DynamicParser/0.7.1.201405082137/jars/libs/slf4j-api-1.7.13.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a788141aca2f212cff9c0aa996bbd1f5c11b706">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/8/slf4j-api-1.7.13_08de6ba288f2502149d7ace99de56b0a2998ec2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.0/ba4506602d0f51d214ba16b80e2e70a714152a20/jackson-core-2.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba4506602d0f51d214ba16b80e2e70a714152a20">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.6.0_d8a306e45264ee6f4a93a1c7b794a47626829c1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_272f8092852f60d7adb50c4b66cc011e90508f08/classes.dex" />
+    </item>
+
+</items>

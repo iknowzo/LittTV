@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-hdpi/littsubmissiontransparent.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-hdpi/littsubmissiontransparent.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-hdpi/littfiretvicon.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-hdpi/littfiretvicon.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-hdpi/littsymmetry.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-hdpi/littsymmetry.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-hdpi/littsubmission2.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-hdpi/littsubmission2.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-hdpi/littsubmissionmagenta.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-hdpi/littsubmissionmagenta.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-hdpi/littsubmissionblack.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-hdpi/littsubmissionblack.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Lucky2/fire-app-builder-master/Application/app/build/intermediates/res/merged/debug/mipmap-hdpi/litttvlogoplanet.png",
+        "source": "/Users/Lucky2/fire-app-builder-master/Application/app/src/main/res/mipmap-hdpi/litttvlogoplanet.png"
+    }
+]
